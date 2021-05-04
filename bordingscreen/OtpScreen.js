@@ -112,7 +112,7 @@ const styles = StyleSheet.create({
 
     text: {
         fontSize: 18,
-        marginLeft: 19,
+        marginLeft: 20,
         marginBottom: 10,
         marginTop: 20,
         color: 'black',
